@@ -1,4 +1,5 @@
 Hello there! 👋 I'm Nayani, a curious soul with a passion for innovation and problem-solving. Whether it's delving into data to uncover hidden patterns, crafting elegant code, or exploring new technologies, I thrive on the excitement of learning and creating.
+
 <p align="left">
 </p>
 Feel free to explore my projects by checking out my repositories
@@ -64,5 +65,7 @@ Feel free to explore my projects by checking out my repositories
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
 </p>
-
